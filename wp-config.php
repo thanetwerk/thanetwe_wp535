@@ -32,7 +32,7 @@ define('DB_PASSWORD', ‘root’);
 define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
-define('DB_CHARSET', 'utf8');
+define('DB_CHARSET', '');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
@@ -77,7 +77,7 @@ $table_prefix  = 'wp_';
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
-define('WP_DEBUG', false);
+define('WP_DEBUG', true);
 
 /* That's all, stop editing! Happy blogging. */
 
