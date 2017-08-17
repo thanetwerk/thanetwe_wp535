@@ -20,7 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', ‘thanetwe.me’);
+define('DB_NAME', ‘thanetwe_wp535’);
 
 /** MySQL database username */
 define('DB_USER', ‘thanetwe_wp535’);
@@ -32,7 +32,7 @@ define('DB_PASSWORD', ‘75@p3]B2S1’);
 define('DB_HOST', 'localhost’);
 
 /** Database Charset to use in creating database tables. */
-define('DB_CHARSET', ‘utf8’);
+define('DB_CHARSET', ‘’);
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
